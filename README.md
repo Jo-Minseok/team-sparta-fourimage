@@ -4,7 +4,7 @@
 <a href="https://spartacodingclub.kr/online/special/photos">강의 보러 가기</a>
 <h3> Project Image</h3>
 <a href="https://jo-minseok.github.io/team-sparta-fourimage/"><img src = "https://user-images.githubusercontent.com/99482796/221865322-38848750-afa7-4ca1-8d36-6972c4b1e559.png"></a><br>
-<a href="https://hits.seeyoufarm.com"><img width = "10%" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJo-Minseok%2Fteam-sparta-fourimage&count_bg=%23FFB100&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img width = "15%" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJo-Minseok%2Fteam-sparta-fourimage&count_bg=%23FFB100&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 
 ## CONTENTS
