@@ -49,8 +49,8 @@
 <a href="https://jo-minseok.github.io/team-sparta-fourimage/"><img src="https://img.shields.io/badge/github%20pages-222222?style=for-the-badge&logo=githubpages&logoColor=white"></a>
 
 ```md
-개발 버전: 0.0.1
-프론트 서버: https://jo-minseok.github.io/team-sparta-fourimage/
+Develop Version : 0.0.1
+Front Server : https://jo-minseok.github.io/team-sparta-fourimage/
 ```
 
 ### Function
