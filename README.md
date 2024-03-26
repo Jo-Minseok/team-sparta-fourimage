@@ -12,7 +12,7 @@
   - [Goal](#Goal)
   - [Explain](#Explain)
 - [STACKS](#STACKS)
-  - [Development Tool](#Development-Tool)
+  - [Development](#Development)
   - [Language](#Language)
   - [Distribution](#distribution)
   - [Function](#function)
