@@ -8,7 +8,6 @@
 </div>
 
 ## CONTENTS
-
 - [REPO INFORMATION](#REPO-INFORMATION)
   - [Goal](#Goal)
   - [Explain](#Explain)
@@ -21,7 +20,7 @@
 
 ## REPO INFORMATION
 
-> Team 스파르타 클론 코딩 </br>
+> 개인 클론 코딩</br>
 > PERIOD: 2023.02.28 - 2023.02.28 (1 DAY)</br>
 
 ### Goal
@@ -30,7 +29,7 @@
 
 ### Explain
 
-📃 본인이 원하는 컨셉을 선정하여 이미지 3장과 영상 하나를 웹 사이트에 등록해보고, 클릭할 때마다 이미지 순서를 출력하는 웹 페이지 제작
+📃 본인이 원하는 컨셉을 선정하여 이미지 3장과 영상 하나를 웹 사이트에 등록해보고, 클릭할 때마다 이미지 순서를 출력하는 웹 페이지 제작. Team 스파르타 인생네컷 클론 코딩
 
 ## STACKS
 
